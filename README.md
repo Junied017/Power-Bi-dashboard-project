@@ -1,2 +1,2 @@
 # Power-Bi-dashboard-project
-Stcok Market Data Analyst
+Stock Market Data Analysis
